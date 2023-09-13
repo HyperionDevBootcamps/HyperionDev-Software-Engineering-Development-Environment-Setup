@@ -31,7 +31,7 @@ open your terminal.
 ![](https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/windows_admin_powershell.gif)
 
 #### Linux
-![](https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Environment-Setup-master/blob/master/linux_terminal.gif)
+![](https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/linux_terminal.gif)
 
 Once your terminal is open, please navigate to the command relevant to your operating system in the Commands section. Click the copy icon that pops up on the right of the command. This will copy the full command you need to run to set up your computer for the whole bootcamp.
 
