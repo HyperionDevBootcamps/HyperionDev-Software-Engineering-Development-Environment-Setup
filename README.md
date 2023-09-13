@@ -45,23 +45,23 @@ Should you run into issues, please submit a query via your dashboard.
 #### macOS (Terminal)
 
 ```.sh
-bash -c "$(curl -fsSL https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/macos_se.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/master/macos_se.sh)"
 ```
 
 #### Windows (Powershell run as an Administrator)
 
 ```.ps1
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-Expression (Invoke-WebRequest -URI "https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/windows_se.ps1" -UseBasicParsing).Content
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-Expression (Invoke-WebRequest -URI "https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/master/windows_se.ps1" -UseBasicParsing).Content
 ```
 
 #### Fedora (Terminal)
 
 ```.sh
-bash -c "$(curl -fsSL https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/fedora_se.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/master/fedora_se.sh)"
 ```
 
 #### Ubuntu (Terminal)
 
 ```.sh
-bash -c "$(curl -fsSL https://github.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/blob/master/ubuntu_se.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Software-Engineering-Development-Environment-Setup-master/master/ubuntu_se.sh)"
 ```
