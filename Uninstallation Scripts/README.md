@@ -1,6 +1,6 @@
-# CoGrammar Software Engineering Development Environment Setup
+# CoGrammar Software Engineering Development Environment Uninstallation
 
-This repository provides scripts that set up your development environment for you. 
+This repository provides scripts that remove your development environment for you. 
 The operating systems we have provided for are:
 
 * macOS
@@ -45,7 +45,7 @@ Should you run into issues, please submit a query via your dashboard.
 #### macOS (Terminal)
 
 ```.sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/skills-cogrammars/CoGrammar-Software-Engineering-Development-Environment-Setup-master/master/macos_se.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/skills-cogrammar/CoGrammar-Software-Engineering-Development-Environment-Setup-master/master/macos_se.sh)"
 ```
 
 #### Windows (Powershell run as an Administrator)
